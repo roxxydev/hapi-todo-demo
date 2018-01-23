@@ -1,0 +1,28 @@
+{
+  "name": "basic-hapi-todo",
+  "version": "1.0.0",
+  "description": "Basic ToDo using Hapijs v17.2.0",
+  "main": "index.js",
+  "engines": {
+    "node": ">=8.9.4"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "lab -c -v -L -a code"
+  },
+  "author": "Roxxy Rafael",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "7.1.x",
+    "good": "7.1.x",
+    "good-console": "^6.4.0",
+    "hapi": "^17.2.x",
+    "joi": "13.0.x",
+    "knex": "^0.14.2",
+    "pg": "^7.4.0"
+  },
+  "devDependencies": {
+    "code": "4.0.x",
+    "lab": "13.0.x"
+  }
+}
