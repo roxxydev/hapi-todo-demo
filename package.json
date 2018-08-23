@@ -14,8 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "boom": "7.1.x",
-    "good": "7.1.x",
-    "good-console": "^6.4.0",
+    "good": "8.1.x",
+    "good-console": "7.1.x",
+    "good-squeeze": "5.1.x",
     "hapi": "^17.2.x",
     "joi": "13.0.x",
     "knex": "^0.14.2",
