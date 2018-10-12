@@ -17,13 +17,13 @@
     "good": "8.1.x",
     "good-console": "7.1.x",
     "good-squeeze": "5.1.x",
-    "hapi": "^17.2.x",
-    "joi": "13.0.x",
-    "knex": "^0.14.2",
+    "hapi": "^17.5.3",
+    "joi": "^13.6.0",
+    "knex": "^0.15.2",
     "pg": "^7.4.0"
   },
   "devDependencies": {
     "code": "4.0.x",
-    "lab": "13.0.x"
+    "lab": "^16.0.0"
   }
 }
